@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\SynchronizationDataFile\\SynchronizationDataFile\\SynchronizationDataFile.csproj": {}
+    "E:\\Projects\\SynchronizationDataFile\\SynchronizationFataFile\\SynchronizationDataFile\\SynchronizationDataFile.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\SynchronizationDataFile\\SynchronizationDataFile\\SynchronizationDataFile.csproj": {
+    "E:\\Projects\\SynchronizationDataFile\\SynchronizationFataFile\\SynchronizationDataFile\\SynchronizationDataFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\SynchronizationDataFile\\SynchronizationDataFile\\SynchronizationDataFile.csproj",
+        "projectUniqueName": "E:\\Projects\\SynchronizationDataFile\\SynchronizationFataFile\\SynchronizationDataFile\\SynchronizationDataFile.csproj",
         "projectName": "SynchronizationDataFile",
-        "projectPath": "E:\\Projects\\SynchronizationDataFile\\SynchronizationDataFile\\SynchronizationDataFile.csproj",
+        "projectPath": "E:\\Projects\\SynchronizationDataFile\\SynchronizationFataFile\\SynchronizationDataFile\\SynchronizationDataFile.csproj",
         "packagesPath": "C:\\Users\\zinch\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\SynchronizationDataFile\\SynchronizationDataFile\\obj\\",
+        "outputPath": "E:\\Projects\\SynchronizationDataFile\\SynchronizationFataFile\\SynchronizationDataFile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zinch\\AppData\\Roaming\\NuGet\\NuGet.Config",

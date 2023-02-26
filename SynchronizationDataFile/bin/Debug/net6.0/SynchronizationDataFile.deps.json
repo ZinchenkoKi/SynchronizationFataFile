@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SynchronizationDataFile/1.0.0": {
+        "dependencies": {
+          "PathFile": "1.0.0.0"
+        },
+        "runtime": {
+          "SynchronizationDataFile.dll": {}
+        }
+      },
+      "PathFile/1.0.0.0": {
+        "runtime": {
+          "PathFile.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SynchronizationDataFile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PathFile/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
